@@ -1,2 +1,7 @@
-# 3d-logo
-3D Logo data of the Wakayama IT Carnival 
+# Wakayama IT Carnival 3D Logo
+
+https://wakayama-it-carnival.org/
+
+## License
+
+[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ja)
